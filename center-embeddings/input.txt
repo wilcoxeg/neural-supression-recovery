@@ -1,0 +1,224 @@
+The iron oxidized . <eos>
+The storm subsided . <eos>
+The girl fainted . <eos>
+The baby cried . <eos>
+The knight perished . <eos>
+The flood receded . <eos>
+The convict escaped . <eos>
+The computer crashed . <eos>
+The vase shattered . <eos>
+The yacht sank . <eos>
+The shirt ripped . <eos>
+The water evaporated . <eos>
+The building collapsed . <eos>
+The pupils dilated . <eos>
+The building deteriorated . <eos>
+The ship capsized . <eos>
+The ice cream melted . <eos>
+The water boiled . <eos>
+The tree fell . <eos>
+The letter arrived . <eos>
+The glass cracked . <eos>
+The bomb exploded . <eos>
+The meat charred . <eos>
+The sugar dissolved . <eos>
+The meat spoiled . <eos>
+The toilet overflowed . <eos>
+The window shattered . <eos>
+The child screamed . <eos>
+The smith hammered . <eos>
+The captain feared . <eos>
+The bug frightened . <eos>
+The woman held . <eos>
+The arrow wounded . <eos>
+The scientist predicted . <eos>
+The policeman arrested . <eos>
+The secretary bought . <eos>
+The maid dusted . <eos>
+The millionaire bought . <eos>
+The man bought . <eos>
+The waiter poured . <eos>
+The workers built . <eos>
+The doctor examined . <eos>
+The workers repaired . <eos>
+The sailor built . <eos>
+The boy liked . <eos>
+The chef needed . <eos>
+The lumberjack cut . <eos>
+The author wrote . <eos>
+The athlete hit . <eos>
+The terrorist built . <eos>
+The hunter cooked . <eos>
+The cook bought . <eos>
+The butcher cut . <eos>
+The plumber fixed . <eos>
+The boy cleaned . <eos>
+The shadow frightened . <eos>
+The iron hammered . <eos>
+The storm feared . <eos>
+The girl frightened . <eos>
+The baby held . <eos>
+The knight wounded . <eos>
+The flood predicted . <eos>
+The convict arrested . <eos>
+The computer bought . <eos>
+The vase dusted . <eos>
+The yacht bought . <eos>
+The shirt bought . <eos>
+The water poured . <eos>
+The building built . <eos>
+The pupils examined . <eos>
+The building repaired . <eos>
+The ship built . <eos>
+The ice cream liked . <eos>
+The water needed . <eos>
+The tree cut . <eos>
+The letter wrote . <eos>
+The glass hit . <eos>
+The bomb built . <eos>
+The meat cooked . <eos>
+The sugar bought . <eos>
+The meat cut . <eos>
+The toilet fixed . <eos>
+The window cleaned . <eos>
+The child frightened . <eos>
+The smith oxidized . <eos>
+The captain subsided . <eos>
+The bug fainted . <eos>
+The woman cried . <eos>
+The arrow perished . <eos>
+The scientist receded . <eos>
+The policeman escaped . <eos>
+The secretary crashed . <eos>
+The maid shattered . <eos>
+The millionaire sank . <eos>
+The man ripped . <eos>
+The waiter evaporated . <eos>
+The workers collapsed . <eos>
+The doctor dilated . <eos>
+The workers deteriorated . <eos>
+The sailor capsized . <eos>
+The boy melted . <eos>
+The chef boiled . <eos>
+The lumberjack fell . <eos>
+The author arrived . <eos>
+The athlete cracked . <eos>
+The terrorist exploded . <eos>
+The hunter charred . <eos>
+The cook dissolved . <eos>
+The butcher spoiled . <eos>
+The plumber overflowed . <eos>
+The boy shattered . <eos>
+The shadow screamed . <eos>
+The iron that the smith hammered oxidized . <eos>
+The storm that the captain feared subsided . <eos>
+The girl that the bug frightened fainted . <eos>
+The baby that the woman held cried . <eos>
+The knight that the arrow wounded perished . <eos>
+The flood that the scientist predicted receded . <eos>
+The convict that the policeman arrested escaped . <eos>
+The computer that the secretary bought crashed . <eos>
+The vase that the maid dusted shattered . <eos>
+The yacht that the millionaire bought sank . <eos>
+The shirt that the man bought ripped . <eos>
+The water that the waiter poured evaporated . <eos>
+The building that the workers built collapsed . <eos>
+The pupils that the doctor examined dilated . <eos>
+The building that the workers repaired deteriorated . <eos>
+The ship that the sailor built capsized . <eos>
+The ice cream that the boy liked melted . <eos>
+The water that the chef needed boiled . <eos>
+The tree that the lumberjack cut fell . <eos>
+The letter that the author wrote arrived . <eos>
+The glass that the athlete hit cracked . <eos>
+The bomb that the terrorist built exploded . <eos>
+The meat that the hunter cooked charred . <eos>
+The sugar that the cook bought dissolved . <eos>
+The meat that the butcher cut spoiled . <eos>
+The toilet that the plumber fixed overflowed . <eos>
+The window that the boy cleaned shattered . <eos>
+The child that the shadow frightened screamed . <eos>
+The iron that the smith oxidized hammered . <eos>
+The storm that the captain subsided feared . <eos>
+The girl that the bug fainted frightened . <eos>
+The baby that the woman cried held . <eos>
+The knight that the arrow perished wounded . <eos>
+The flood that the scientist receded predicted . <eos>
+The convict that the policeman escaped arrested . <eos>
+The computer that the secretary crashed bought . <eos>
+The vase that the maid shattered dusted . <eos>
+The yacht that the millionaire sank bought . <eos>
+The shirt that the man ripped bought . <eos>
+The water that the waiter evaporated poured . <eos>
+The building that the workers collapsed built . <eos>
+The pupils that the doctor dilated examined . <eos>
+The building that the workers deteriorated repaired . <eos>
+The ship that the sailor capsized built . <eos>
+The ice cream that the boy melted liked . <eos>
+The water that the chef boiled needed . <eos>
+The tree that the lumberjack fell cut . <eos>
+The letter that the author arrived wrote . <eos>
+The glass that the athlete cracked hit . <eos>
+The bomb that the terrorist exploded built . <eos>
+The meat that the hunter charred cooked . <eos>
+The sugar that the cook dissolved bought . <eos>
+The meat that the butcher spoiled cut . <eos>
+The toilet that the plumber overflowed fixed . <eos>
+The window that the boy shattered cleaned . <eos>
+The child that the shadow screamed frightened . <eos>
+The iron that the smith who lives down the road hammered oxidized . <eos>
+The storm that the captain with the black mustache feared subsided . <eos>
+The girl that the bug with the green wings frightened fainted . <eos>
+The baby that the woman waiting in the hallway held cried . <eos>
+The knight that the arrow with the poison tip wounded perished . <eos>
+The flood that the scientist from the famous university predicted receded . <eos>
+The convict that the policeman from the neighboring city arrested escaped . <eos>
+The computer that the secretary with the blue glasses bought crashed . <eos>
+The vase that the maid with the foreign accent dusted shattered . <eos>
+The yacht that the millionaire who everyone despises bought sank . <eos>
+The shirt that the man who lives down the block bought ripped . <eos>
+The water that the waiter in the white apron poured evaporated . <eos>
+The building that the workers from the local union built collapsed . <eos>
+The pupils that the doctor in the white coat examined dilated . <eos>
+The building that the workers in the green pants repaired deteriorated . <eos>
+The ship that the sailor in the blue uniform built capsized . <eos>
+The ice cream that the boy from the local university liked melted . <eos>
+The water that the chef in the tall white hat needed boiled . <eos>
+The tree that the lumberjack from the small town cut fell . <eos>
+The letter that the author from the big city wrote arrived . <eos>
+The glass that the athlete in the red jersey hit cracked . <eos>
+The bomb that the terrorist from the foreign country built exploded . <eos>
+The meat that the hunter in the green coat cooked charred . <eos>
+The sugar that the cook from the south of France bought dissolved . <eos>
+The meat that the butcher with the strong arms cut spoiled . <eos>
+The toilet that the plumber who we all respect fixed overflowed . <eos>
+The window that the boy in the blue shirt cleaned shattered . <eos>
+The child that the shadow in the corner of the room frightened screamed . <eos>
+The iron that the smith who lives down the road oxidized hammered . <eos>
+The storm that the captain with the black mustache subsided feared . <eos>
+The girl that the bug with the green wings fainted frightened . <eos>
+The baby that the woman waiting in the hallway cried held . <eos>
+The knight that the arrow with the poison tip perished wounded . <eos>
+The flood that the scientist from the famous university receded predicted . <eos>
+The convict that the policeman from the neighboring city escaped arrested . <eos>
+The computer that the secretary with the blue glasses crashed bought . <eos>
+The vase that the maid with the foreign accent shattered dusted . <eos>
+The yacht that the millionaire who everyone despises sank bought . <eos>
+The shirt that the man who lives down the block ripped bought . <eos>
+The water that the waiter in the white apron evaporated poured . <eos>
+The building that the workers from the local union collapsed built . <eos>
+The pupils that the doctor in the white coat dilated examined . <eos>
+The building that the workers in the green pants deteriorated repaired . <eos>
+The ship that the sailor in the blue uniform capsized built . <eos>
+The ice cream that the boy from the local university melted liked . <eos>
+The water that the chef in the tall white hat boiled needed . <eos>
+The tree that the lumberjack from the small town fell cut . <eos>
+The letter that the author from the big city arrived wrote . <eos>
+The glass that the athlete in the red jersey cracked hit . <eos>
+The bomb that the terrorist from the foreign country exploded built . <eos>
+The meat that the hunter in the green coat charred cooked . <eos>
+The sugar that the cook from the south of France dissolved bought . <eos>
+The meat that the butcher with the strong arms spoiled cut . <eos>
+The toilet that the plumber who we all respect overflowed fixed . <eos>
+The window that the boy in the blue shirt shattered cleaned . <eos>
+The child that the shadow in the corner of the room screamed frightened . <eos>
